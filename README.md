@@ -7,6 +7,6 @@ He's claiming that it works for EAC and BE but who knows
 
 Test.bin is the driver
 
-Zip contains the full crack :)
+Zip contains the full cr :)
 
 have fun with this retarded scammer kid shit (on own risk tho)
