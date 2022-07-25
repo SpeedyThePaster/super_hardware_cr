@@ -5,7 +5,7 @@ kid who bought source for 200€ and didn't even bother to protect it. patched a
 
 He's claiming that it works for EAC and BE but who knows
 
-Test.bin is the driver
+Test.bin is the driver was contained inside their exe as byte array
 
 Zip contains the full cr :)
 
